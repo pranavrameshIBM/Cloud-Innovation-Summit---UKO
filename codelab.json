@@ -1,0 +1,23 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-09-21T01:14:54Z",
+  "id": "Cloud Innovation Summit",
+  "duration": 0,
+  "title": "IBM Cloud Innovation Summit: Security \u0026 Compliance Center - Hands-on Lab",
+  "summary": "Cloud Innovation Summit",
+  "source": "codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sample"
+  ],
+  "tags": [
+    "medium"
+  ],
+  "url": "Cloud Innovation Summit"
+}
